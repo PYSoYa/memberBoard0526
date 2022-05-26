@@ -24,7 +24,7 @@
 <body>
     <h2>index.jsp</h2>
     <button onclick="saveForm()" class="">회원가입</button>
-    <button onclick="login()" class="">회원가입</button>
-    <button onclick="findAll()" class="">회원가입</button>
+    <button onclick="login()" class="">로그인</button>
+    <button onclick="findAll()" class="">글목록</button>
 </body>
 </html>
